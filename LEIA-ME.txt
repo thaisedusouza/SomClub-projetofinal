@@ -1,0 +1,21 @@
+SOMCLUB — Projeto inicial Android Studio (Java)
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra o Android Studio e escolha Open.
+3. Selecione a pasta SomClub_AndroidStudio.
+4. Aguarde o Gradle Sync. Se for solicitado, instale o Android SDK 35.
+5. Execute no emulador ou celular Android.
+
+TELAS
+- Tela inicial
+- Cadastro
+- Login
+- Página inicial
+- Música, avaliação e comentário
+- Grupos musicais
+- Eventos próximos
+- Explicação/permissão de localização
+
+IMPORTANTE
+Este projeto é um protótipo de interface e navegação. Os botões abrem outras telas, mas ainda não há banco de dados, autenticação real, GPS real nem publicação de comentários. Músicas e eventos são exemplos. As telas são montadas com componentes Android simples em Java para facilitar o aprendizado.
